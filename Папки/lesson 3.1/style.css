@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+h1 {
+    font-size: 56; /*размер текста*/
+    color: #000000; /*текстин тусу*/
+    background: gray;  /*фондун тусу*/
+    margin: 0 0 20px 0; /*сырткы отсуп*/
+    border: 2px solid black; /*блоктун кыры*/
+    text-align: center; /*место текста*/
+
+}
+
+p{
+    font-size: 34;
+    color: black;
+    background:red;
+    margin: 0 0 34 0;
+    border: 4px solid black;
+    text-align: center;
+    
+}

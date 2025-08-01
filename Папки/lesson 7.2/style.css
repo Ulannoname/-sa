@@ -1,0 +1,39 @@
+.h button:hover {
+    background: blue;
+    color: #fff;
+    padding: 20px 40px;
+    border-radius: 15px;
+}
+.a :active {
+    background: red;
+    color: #fff;
+    padding: 20px 40px;
+    border-radius: 15px;
+}
+.f input:focus {
+    border: 3px solid blue; 
+}
+.fc li:first-child {
+    color: rgb(37, 0, 245);
+}
+.fc li:last-child {
+    color: rgb(24, 167, 207);
+}
+
+.fc li:last-child(4) {
+    color: rgb(255, 3, 230);
+}
+
+.title::after{
+    content:"✨";
+}
+.title::before{
+    content:"!";
+}
+p::first-line {
+    color: red;
+}
+p::first-letter {
+    color:rgb(0, 255, 72);
+    font-size: 40px;
+}

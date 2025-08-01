@@ -1,0 +1,21 @@
+
+body {
+  
+}
+
+
+.checklist li::before {
+  content: "✔";
+  }
+
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+
+.uppercase {
+  text-transform: uppercase;
+  font-weight: bold;
+}

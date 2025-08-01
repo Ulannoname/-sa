@@ -1,0 +1,20 @@
+
+Python — простой язык программирования.
+
+Типы данных: int, float, str, bool, list, tuple, dict, set
+
+Изменяемые: list, dict, set Неизменяемые: int, float, str, tuple, bool
+
+Операторы: +, -, *, /, ==, !=, and, or, =
+
+Условия: if, elif, else
+
+Методы:
+
+str.upper()
+
+list.append()
+
+dict.get()
+
+set.add()

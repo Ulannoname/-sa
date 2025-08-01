@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: linear-gradient(to top, #444, #999);
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #222;
+  border: 5px solid #fff;
+}

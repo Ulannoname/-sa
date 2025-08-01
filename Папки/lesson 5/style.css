@@ -1,0 +1,43 @@
+.p-1 {
+    color: red;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+}
+ /*background-color - устан задний цвет */
+ /* px % em, rem, */
+ .block-1 {
+    width: 100%;
+    height: 200px;
+    background-color:cadetblue;
+ }
+ /*background-image: lineear-gradient*/
+ .block-2 {
+    width: 100%;
+    height: 300px;
+    background-image: radial-gradient(45deg, red, purple blue, orange);
+ }
+ .block-3 {
+
+   width: 100%;
+   height: 300px;
+   background: 500px;
+   background-image: radial-gradient(red, blue, ,);
+ }
+ .block-4 {
+   width: 100%;
+   height: 1000px;
+   background-image: url(https://uiuiui.in/uploads/posts/wally/1056786.webp);
+   background-size: cover;
+   background; no-repeat;
+   background-attachment: fixed;
+ }
+ 
+ .block-5 {
+      width: 100%;
+   height: 1000px;
+   background-image: url(https://img3.goodfon.ru/original/1920x1200/9/46/sakura-derevo-klozet.jpg);
+   background-size: cover;
+   background; no-repeat;
+   background-attachment: fixed;
+ }

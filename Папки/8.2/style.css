@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    padding: 30px;
+}
+
+.block {
+    border: 5px solid red;
+    max-width: 500px;
+    margin: 0 auto;
+    height: 800px;
+}
+.block div {
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+.block1 {
+    background: #ece89d;
+    
+}
+.block2 {
+    background: #5e5373;
+    color: #fff;
+    position: sticky;
+    top: 0;
+
+    
+
+}
+.block3 {
+    background: #00adcc;
+}

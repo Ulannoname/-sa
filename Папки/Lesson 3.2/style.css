@@ -1,0 +1,58 @@
+h1 {
+    color: red;
+    text-align: center;
+    border: 1px dotted black;
+    background-color: #fff8dc;
+  }
+  h2 {
+    background-color: green;
+    color: white;
+    padding: 10px;
+  }
+  h3 {
+    background-color: pink;
+    color: blue;
+    text-align: right;
+    padding: 10px;
+  }
+  p {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  em {
+    font-style: italic;
+  }
+  strong {
+    font-weight: bold;
+  }
+  mark {
+    background-color: lightgreen;
+  }
+  ul {
+    background-color: #e0f7fa;
+    padding: 10px;
+  }
+  ul li {
+    color: orange;
+  }
+  ol {
+    background-color: #fff8dc;
+    padding: 10px;
+  }
+  ol li {
+    color: purple;
+  }
+  .div-block {
+    background-color: #6a5acd;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+  }
+  .span-block {
+    background-color: #e0ffe0;
+    color: green;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 10px;
+  }

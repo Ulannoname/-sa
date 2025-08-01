@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../lesston 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesston 2"
+	}
+}
